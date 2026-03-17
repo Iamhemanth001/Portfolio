@@ -181,7 +181,7 @@ const profile = {
                     I&apos;m{" "}
                     <span className="gradient-text whitespace-nowrap min-w-[280px] inline-block">
                       <Typewriter
-                        words={['Hemant Kumar', 'a Developer', 'a Problem Solver', 'a AI/ML Explorer']}
+                        words={['Hemant Kumar', 'a Developer', 'a Problem Solver', 'an AI/ML Explorer']}
                         loop={0}
                         cursor
                         cursorStyle='_'
